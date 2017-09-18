@@ -1,0 +1,67 @@
+/*===collection===*/
+.collection .hr{
+  background: linear-gradient(to right, #7accc8 0%,#febfbf 100%);
+}
+.collection .row>.col-sm-6{
+	margin-bottom: 30px;
+}
+.collection .box img{
+	width: 100%;
+	height: 100%;
+}
+/*===category of music===*/
+.category .big-title{
+	background-position: -240px 0;
+}
+.category .hr{
+     background: linear-gradient(to right, #7accc8 0%,#e0d8f9 100%);
+}
+.category .col-sm-6{
+	margin-bottom: 30px;
+}
+/*===stories of music===*/
+.story .big-title{
+	background-position: 0 -65px;
+}
+.story .hr{
+     background: linear-gradient(to right, #7accc8 0%,#afe871 100%);
+}
+.story div{
+	margin-bottom: 20px;
+}
+.story img{
+	width: 100%;
+	height: 100%;
+}
+.story .content{
+	padding: 25px 15px;
+}
+.story h4{
+	color: #256966;
+}
+.story h5{
+	color: #a1a1a1;
+}
+.story .content a{
+	float: right;
+}
+@media (max-width: 1200px){
+	.story .content{
+		padding: 0 10px;
+	}
+}
+/*===voice of swufe===*/
+.voice .big-title{
+	background-position: -240px -130px;
+}
+.voice .hr{
+     background: linear-gradient(to right, #7accc8 0%,#e9c7e9 100%);
+}
+.voice img{
+	width: 100%;
+	height: 100%;
+}
+/*===news of music===*/
+.news .big-title{
+	background-position: 0 -130px;
+}
